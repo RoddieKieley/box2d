@@ -6,8 +6,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/roddiekieley/box2d/go/pkg"
 	"github.com/pmezard/go-difflib/difflib"
+	"github.com/roddiekieley/box2d/go/pkg"
 )
 
 func TestCPPCompliance(t *testing.T) {
